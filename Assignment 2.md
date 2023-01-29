@@ -1,2 +1,2 @@
-# Comp421-21-10862-secB
+# Assignment 2
 Here is the link of the video demonstration:
